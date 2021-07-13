@@ -16,6 +16,7 @@ class Song
 
   def self.all
     @@songs
+    
   end
 
   def self.reset_all
